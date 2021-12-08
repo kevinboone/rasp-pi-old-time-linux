@@ -1,0 +1,4 @@
+# Set up devices in /dev so they belong to the logged-in user
+
+sudo /usr/bin/console-setup.sh
+
